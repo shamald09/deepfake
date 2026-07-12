@@ -1,0 +1,9 @@
+flask
+flask-cors
+torch
+torchvision
+segmentation-models-pytorch
+timm
+albumentations
+opencv-python-headless
+pillow
